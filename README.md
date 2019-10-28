@@ -16,4 +16,5 @@ Zedrek Farrell
 Nick Stotts 
 Anwyn Springfield
 Beatrice Pinetti
+Gus Teteris
 Gabe Cagnazzi
