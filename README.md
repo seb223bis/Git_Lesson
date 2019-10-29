@@ -20,6 +20,8 @@ Julia Zambetti
 Noah Levine
 Zedrek Farrell
 Nick Stotts 
+Mia Rosengard
+Beatrice Pinetti
 Re-edited by KAClifford
 FullName Kevin Clifford
 Anwyn Springfield
