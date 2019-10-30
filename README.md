@@ -1,6 +1,7 @@
 # Git_Lesson
 This repo is intended to demonstrate using Git
 Edited by DataTroy
+Re-edited by Michael Bukhalo
 Re-edited by Carolyn Reagan
 Re-edited by RStudent2019
 Sarah Bastian
