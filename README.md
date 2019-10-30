@@ -23,6 +23,7 @@ Julia Zambetti
 Noah Levine
 Zedrek Farrell
 Nick Stotts 
+Daneal Senderovich
 Gabe Ganem
 Mia Rosengard
 Beatrice Pinetti
